@@ -95,4 +95,7 @@
 	
 	
 <p align="center">
-  <a href="https://count.getloli.com/get/@:pratyay008"><img src="https://count.getloli.com/get/@:pratyay008 alt=":pratyay008""></a>	
+  <a href="https://count.getloli.com/get/@:pratyay008">
+  <img src="https://count.getloli.com/get/@:pratyay008 alt=":pratyay008""></a>	
+  ![:pratyay008](https://count.getloli.com/get/@:pratyay008)
+</p>	
