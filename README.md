@@ -71,7 +71,7 @@
 
 <a href="https://github.com/Pratyay008/github-readme-activity-graph"><img alt="Pratyay Mondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pratyay008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-
+<br/>
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
