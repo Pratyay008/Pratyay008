@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/pratyay-mondal-153198222/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:pratyaymondal911@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratyaymondal911@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/Pratyay_008">
