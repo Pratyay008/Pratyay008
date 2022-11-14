@@ -53,7 +53,7 @@
 
 ## 📊 My Github Stats
 
-<img align='right' src="[https://media4.giphy.com/media/GRVM7bxdn7yEFWTN6i/200.webp?cid=ecf05e47l4cau0wmltbpwhne37jknb1k026h5z6eqavm1bsg&rid=200.webp&ct=g](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g)" width="300">
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
   <br/>
 	 <a href="https://github.com/Pratyay008/github-readme-stats"><img alt="Pratyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyay008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
