@@ -71,6 +71,12 @@
 
 <a href="https://github.com/Pratyay008/github-readme-activity-graph"><img alt="Pratyay Mondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pratyay008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+	
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 ![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
