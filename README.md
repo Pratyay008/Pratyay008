@@ -98,3 +98,7 @@
   <a href="https://count.getloli.com/get/@:pratyay008">
   <img src="https://count.getloli.com/get/@:pratyay008 alt=":pratyay008""></a>	
 </p>	
+
+<br/>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
