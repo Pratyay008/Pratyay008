@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning Data Structures & Algorithms and Database Management Systems
 - 📫 My Portfolio Website : **will update soon**
 - 📫 Reach me: **pratyaymondal911@gmail.com**
-- ⚡ Fun fact :- Travelling, Adventuring and Exploring are the reasons to live.
+- ⚡ Fun fact :- Travel, Adventure and Explore are the reasons to live.
 
 <h2> Skills </h2>
 
