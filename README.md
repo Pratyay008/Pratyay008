@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-## Hey I'm [Pratyay Mondal](https://github.com/Pratyay008) 
+## Hey, I'm [Pratyay Mondal](https://github.com/Pratyay008) 
 
 <a href="https://www.linkedin.com/in/pratyay-mondal-153198222/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -58,8 +58,12 @@
   <br/>
 	 <a href="https://github.com/Pratyay008/github-readme-stats"><img alt="Pratyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyay008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  	<a href="https://github.com/Pratyay008/github-readme-stats"><img alt="Pratyay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyay008&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+	<a href="https://github.com/Pratyay008/github-readme-streak-stats">
+		 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyay008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+	</a>
  <br/>
 
  <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
