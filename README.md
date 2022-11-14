@@ -84,7 +84,7 @@
 
 ![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/pratyay-mondal-153198222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyay mondal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Pratyay-Mondal/100076892553454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratyay mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/_pratyay_mondal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pratyay_mondal_" height="30" width="40" />
@@ -93,7 +93,7 @@
 </p>
 
 	
-	
+<br/>	
 <p align="center">
   <a href="https://count.getloli.com/get/@:pratyay008">
   <img src="https://count.getloli.com/get/@:pratyay008 alt=":pratyay008""></a>	
