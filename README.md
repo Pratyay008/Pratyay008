@@ -9,11 +9,18 @@
 <a href="https://www.linkedin.com/in/pratyay-mondal-153198222/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-
 <a href="mailto:pratyaymondal911@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<a href="https://twitter.com/Pratyay_008">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://">
+  <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
+</a>
+<a href="https://www.instagram.com/_pratyay_mondal_/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br />
 <br />
 
