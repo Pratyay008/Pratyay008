@@ -72,3 +72,13 @@
 <a href="https://github.com/Pratyay008/github-readme-activity-graph"><img alt="Pratyay Mondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pratyay008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
+![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pratyay-mondal-153198222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyay mondal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Pratyay-Mondal/100076892553454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratyay mondal" height="30" width="40" /></a>
+<a href="https://instagram.com/_pratyay_mondal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pratyay_mondal_" height="30" width="40" />
+<a href="https://twitter.com/Pratyay_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratyay mondal" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratyaymondal911@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vLbUMUg6S58G90qVSUtUo0LnMIRDNsTDQg&usqp=CAU" alt="pratyay mondal" height="30" width="40" /></a>
+</p>
