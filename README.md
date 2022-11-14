@@ -69,3 +69,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
+<a href="https://github.com/Pratyay008/github-readme-activity-graph"><img alt="Pratyay Mondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pratyay008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
