@@ -49,22 +49,17 @@
 
 
 
-[![Pratyay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pratyay008&theme=tokyonight)](https://github.com/Pratyay008?tab=repositories)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+## 📊 My Github Stats
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyay008&show_icons=true&locale=en&layout=compact"
-    alt="Pratyay008" /></p>
+<img align='right' src="https://media4.giphy.com/media/GRVM7bxdn7yEFWTN6i/200.webp?cid=ecf05e47l4cau0wmltbpwhne37jknb1k026h5z6eqavm1bsg&rid=200.webp&ct=g" width="300">
 
-<br>
+  <br/>
+	 <a href="https://github.com/dhrupad17/github-readme-stats"><img alt="Dhrupad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhrupad17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 	<a href="https://github.com/dhrupad17/github-readme-stats"><img alt="Dhrupad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupad17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratyay008&show_icons=true&locale=en"
-    alt="Pratyay008" /></p>
+ <br/>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyay008&" alt="Pratyay008" /></p>
-
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
