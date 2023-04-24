@@ -27,7 +27,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pratyay008.Pratyay008)
 
 - 🌱 I’m currently learning : Data Structures & Algorithms and Database Management Systems
-- 🗒️ My Portfolio Website : **will update soon**
+- 🗒️ My Portfolio Website : <a href="https://sites.google.com/view/pratyaymondal/home">
 - 📫 Reach me : **pratyaymondal911@gmail.com**
 - ⚡ Fun fact : Travel, Adventure and Explore are the reasons to live.
 
