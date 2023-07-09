@@ -43,9 +43,6 @@
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
-
 ## 📊 My Github Stats
 
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
