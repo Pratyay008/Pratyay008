@@ -10,7 +10,7 @@
 <a href="https://twitter.com/Pratyay_008">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://">
+<a href="https://pratyaymondal.medium.com/">
   <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
 <a href="https://www.instagram.com/_pratyay_mondal_/">
@@ -31,7 +31,7 @@
 <a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
 <a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/> </a>
 <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a><a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://www.w3schools.com/js/" target="blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
