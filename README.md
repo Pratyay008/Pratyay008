@@ -42,19 +42,3 @@
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 
-
-## 📊 My Github Stats
-
-<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
-
-  <br/>
-	 <a href="https://github.com/Pratyay008/github-readme-stats"><img alt="Pratyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyay008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 	
-	
-</p>	
- <br/>
-
-
-
-	
-
