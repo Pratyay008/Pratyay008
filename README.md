@@ -1,15 +1,11 @@
 
 ## Hey, I'm [Pratyay Mondal](https://github.com/Pratyay008) 
 
-<a href="https://www.linkedin.com/in/pratyay-mondal-153198222/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratyaymondal911@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/Pratyay_008">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://pratyaymondal.medium.com/">
   <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
@@ -42,3 +38,10 @@
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 
+
+
+## 🙋‍♀️ Let's Connect
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyay-mondal-153198222/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratyay_008)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyaymondal911@gmail.com)
