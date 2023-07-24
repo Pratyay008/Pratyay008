@@ -1,26 +1,10 @@
 
-## Hey, I'm [Pratyay Mondal](https://github.com/Pratyay008) 
+<h1 align="center">Hi there, I'm Pratyay Mondal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratyaymondal911@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://pratyaymondal.medium.com/">
-  <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
-</a>
-<a href="https://www.instagram.com/_pratyay_mondal_/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pratyay008.Pratyay008)
 
-- 🌱 I’m currently learning: DSA, DBMS, Machine Learning, Data Science
-- 🗒️ My Portfolio Website:  [Portfolio](https://sites.google.com/view/pratyaymondal/home)
-- 📫 Reach me: **pratyaymondal911@gmail.com**
-- ⚡ Fun fact: Travel, Adventure and Explore are the reasons to live.
 
 <h2> Skills </h2>
 
@@ -45,3 +29,8 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyay-mondal-153198222/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratyay_008)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyaymondal911@gmail.com)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://https://pratyaymondal.medium.com/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https:www.instagram.com/_pratyay_mondal_/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://sites.google.com/view/pratyaymondal/home)
+
+
