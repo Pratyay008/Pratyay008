@@ -26,7 +26,7 @@
 
 
 
-## Connect with me
+## Connect with me 💬
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyay-mondal-153198222/)
