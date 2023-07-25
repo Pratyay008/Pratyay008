@@ -2,6 +2,14 @@
 <h2 align="center">Hi there, I'm Pratyay Mondal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pratyay008.Pratyay008)
+
+- 🌱 I’m currently learning: DSA, DBMS, Machine Learning, Data Science
+- 🗒️ My Portfolio Website:  [Portfolio](https://sites.google.com/view/pratyaymondal/home)
+- 📫 Reach me: **pratyaymondal911@gmail.com**
+- ⚡ Fun fact: Travel, Adventure and Explore are the reasons to live.
+
+
 <h2> Skills </h2>
 
 <a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
