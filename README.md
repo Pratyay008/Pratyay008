@@ -27,6 +27,7 @@
 
 
 ## 🙋‍♀️ Let's Connect
+![image](https://github.com/Pratyay008/Pratyay008/assets/81563083/d195bc8b-06d5-48e4-98e0-d5ef30f182a3)
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyay-mondal-153198222/)
