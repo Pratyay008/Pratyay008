@@ -19,7 +19,6 @@
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href= https://code.visualstudio.com/> <img width ='40px' src ='https://github.com/Pratyay008/Pratyay008/assets/81563083/6e729a42-8415-40ff-839e-3a5e2fa88370'> </a>
-
 <a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
 <a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
 <a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
