@@ -1,7 +1,4 @@
 
-<h2 align="center">Hi there, I'm Pratyay Mondal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pratyay008.Pratyay008)
 
 - 🌱 Learning: Web Development, Machine Learning, Data Science
